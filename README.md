@@ -33,17 +33,17 @@ Step 1. Prepare the Request
 Select one or more HTTP requests, then send to multi-intruder and mark the portion that should be fuzzed using the § marker.
 
 Example:
-GET /get/§user§ HTTP/1.1
+GET /get/§user§ HTTP/1.1   
 The marked value will be replaced with every payload from the loaded wordlist.
 
 Step 2. Load a Wordlist
-Payloads can be loaded using any of the following methods:
-**File Import**
-Load payloads from a text file.
-**Clipboard Paste**
-Paste payloads directly from the system clipboard.
-**Manual Entry**
-Add individual payloads through the input field.
+Payloads can be loaded using any of the following methods:  
+**File Import**   
+Load payloads from a text file.  
+**Clipboard Paste**  
+Paste payloads directly from the system clipboard.  
+**Manual Entry**  
+Add individual payloads through the input field.  
 Each payload is displayed on a separate line and can be edited or removed before starting the attack.
 
 Step 3. Configure Request Rate
