@@ -31,6 +31,7 @@ Attack Results
 # Steps to use
 Step 1. Prepare the Request
 Select one or more HTTP requests, then send to multi-intruder and mark the portion that should be fuzzed using the § marker.
+
 Example:
 GET /get/§user§ HTTP/1.1
 The marked value will be replaced with every payload from the loaded wordlist.
