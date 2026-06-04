@@ -8,12 +8,15 @@ Download the Jar file and add to your burp suite.
 
 # Screenshots:
 
-<img width="1110" height="700" alt="image" src="https://github.com/user-attachments/assets/305ccd1b-579e-4aaf-ad3c-c5e87532a78b" />
+<img width="1372" height="911" alt="image" src="https://github.com/user-attachments/assets/eee4edd6-c780-442c-864a-b4fd1671e23d" />
+
 
 Attack Results
-<img width="1093" height="690" alt="image" src="https://github.com/user-attachments/assets/c278d359-9e05-4ebb-a629-e45be05d3a7a" />
+<img width="1355" height="927" alt="image" src="https://github.com/user-attachments/assets/37532282-6525-4b7b-a9d8-b82a95bfcb5f" />
 
-<img width="1082" height="753" alt="image" src="https://github.com/user-attachments/assets/e1601d44-c74b-400b-998f-279c07d04bdd" />
+
+<img width="1372" height="961" alt="image" src="https://github.com/user-attachments/assets/b836ccde-e4ce-4b7b-976a-472dff31ff9b" />
+
 
 #Features
 •	Directory and path discovery
