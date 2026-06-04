@@ -18,15 +18,15 @@ Attack Results
 <img width="1372" height="961" alt="image" src="https://github.com/user-attachments/assets/b836ccde-e4ce-4b7b-976a-472dff31ff9b" />
 
 
-#Features
-•	Directory and path discovery
-•	API endpoint testing
-•	Websites in tabs are bruteforced sequential, prevents overload of request to a website
-•	Redirect analysis
-•	Configurable requests-per-second rate limiting
-•	Multiple concurrent attack sessions
-•	Pause and resume functionality
-•	Result export
+## Features  
+•	Directory and path discovery  
+•	API endpoint testing  
+•	Websites in tabs are bruteforced sequential, prevents overload of request to a website  
+•	Redirect analysis  
+•	Configurable requests-per-second rate limiting  
+•	Multiple concurrent attack sessions  
+•	Pause and resume functionality  
+•	Result export  
 
 # Steps to use
 Step 1. Prepare the Request
@@ -47,27 +47,26 @@ Add individual payloads through the input field.
 Each payload is displayed on a separate line and can be edited or removed before starting the attack.
 
 Step 3. Configure Request Rate
-The Request/s field controls how many requests are sent per second.
-If no value is specified, Multi-Intruder uses:
-1 request per second
-Examples:
-Value	Rate
-1	1 request per second
-5	5 requests per second
-10	10 requests per second
+The Request/s field controls how many requests are sent per second.  
+If no value is specified, Multi-Intruder uses:  
+1 request per second  
+Examples:  
+1 ->	1 request per second  
+5 ->	5 requests per second  
+
 ________________________________________
 
 Step 4. Start the Attack
 Click Run to start the attack.
 
-## Delete Requests
-•	Delete removes selected requests.
-•	Delete All removes all loaded requests.
+## Delete Requests  
+•	Delete removes selected requests.  
+•	Delete All removes all loaded requests.  
 
-## Copy URL
-Right-click any result row and select:
-Copy URL
-The request URL is copied to the system clipboard.
+## Copy URL  
+Right-click any result row and select:  
+Copy URL  
+The request URL is copied to the system clipboard.  
 
 
 
